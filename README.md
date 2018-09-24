@@ -3,7 +3,6 @@ A 3D model of a Rubik's Cube - An assignment I made for a Computer Graphics elec
     
 Press:
 'R' - for right wall rotation.
-
 'L' - for left wall rotation.
 'U' - for up wall rotation.
 'D' - for down wall rotation.
