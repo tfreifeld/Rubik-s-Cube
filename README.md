@@ -1,5 +1,6 @@
 # Rubik-s-Cube
 A 3D model of a Rubik's Cube - An assignment I made for a Computer Graphics elective course.
+A practice mostly on transformation matrices, using C++ with OpenGL and GLSL (GL Shading Language)
     
 Press:
 
