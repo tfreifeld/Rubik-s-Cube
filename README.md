@@ -22,3 +22,5 @@ Space - for flipping rotation direction (from clockwise to counter clockwise or 
 
 'A' - multiply rotation angle by 2 (until maximum of 180 degrees).
 
+![](Screenshot_1.png)
+![](Screenshot_2.png)
